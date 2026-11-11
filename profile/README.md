@@ -1,6 +1,6 @@
 <div align="center">
 
-# Project Forge
+<img src="https://raw.githubusercontent.com/Project-Forge-Team/.github/main/profile/banner.png" alt="Project Forge — Build · Ship · Grow" width="100%">
 
 ### Учимся разработке через совместные проекты
 
