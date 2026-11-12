@@ -6,6 +6,8 @@
 
 Сообщество для тех, кто хочет практиковаться, находить напарников и доводить идеи до работающего результата.
 
+<a href="https://project-forge-community.vercel.app/"><img src="https://img.shields.io/badge/Наш_сайт-Project_Forge-f57436?style=for-the-badge" alt="Наш сайт — Project Forge"></a>
+
 [Посмотреть проекты](https://github.com/orgs/Project-Forge-Team/repositories) · [Присоединиться](https://github.com/Project-Forge-Team/.github/issues/new?title=Хочу+присоединиться) · [Предложить идею](https://github.com/Project-Forge-Team/.github/issues/new?title=Идея+проекта)
 
 </div>
